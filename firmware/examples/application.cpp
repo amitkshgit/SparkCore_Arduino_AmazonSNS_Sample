@@ -3,7 +3,7 @@
 */
 
 #include "application.h"
-#include "AmazonSNSClient/AmazonSNSClient.h"
+#include "AmazonSNSClient/SparkCore_Arduino_AmazonSNS_Sample.h"
 #include "AmazonSNSClient/SparkAWSImplementations.h"
 #include "AmazonSNSClient/AWSFoundationalTypes.h"
 #include "AmazonSNSClient/keys.h"
