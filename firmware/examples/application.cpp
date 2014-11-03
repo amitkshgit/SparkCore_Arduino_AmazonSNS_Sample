@@ -3,10 +3,10 @@
 */
 
 #include "application.h"
-#include "AmazonSNSClient/SparkCore_Arduino_AmazonSNS_Sample.h"
-#include "AmazonSNSClient/SparkAWSImplementations.h"
-#include "AmazonSNSClient/AWSFoundationalTypes.h"
-#include "AmazonSNSClient/keys.h"
+#include "SparkCore_Arduino_AmazonSNS_Sample/SparkCore_Arduino_AmazonSNS_Sample.h"
+#include "SparkCore_Arduino_AmazonSNS_Sample/SparkAWSImplementations.h"
+#include "SparkCore_Arduino_AmazonSNS_Sample/AWSFoundationalTypes.h"
+#include "SparkCore_Arduino_AmazonSNS_Sample/keys.h"
 
 /* Constants for connecting to Amazon SNS. */
 static const char* TARGET_ARN = "SNSTopicARN";  // replace each ':' with '%3A'
